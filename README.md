@@ -8,18 +8,9 @@
 - **Node.js:** v22.11.0
 
 ## Project Structure
-.
-├── README.md
-├── cypress
-│   ├── e2e
-│   ├── fixtures
-│   │   └── testData.json
-│   └── support
-│       ├── commands.js
-│       └── e2e.js
-├── cypress.config.js
-├── package-lock.json
-└── package.json
+```
+Structure will be updated as the project progresses.
+```
 
 ## Configuration
 - **Base URL:** https://bookcart.azurewebsites.net
