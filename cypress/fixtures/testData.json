@@ -1,0 +1,13 @@
+{
+    "validUser": {
+        "username": "ameni_test",
+        "firstname": "Ameni",
+        "lastName": "Test",
+        "password": "Test@1234"
+    },
+    "searchTerms":{
+        "valid": "Harry Potter",
+        "partial": "Harry",
+        "invalid": "xyznonexistentbook123"
+    }
+}
