@@ -1,0 +1,15 @@
+{
+  "name": "bookcart-cypress-e2e",
+  "version": "1.0.0",
+  "description": "End-to-end test automation suite for the BookCart online bookstore using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^15.16.0"
+  }
+}
